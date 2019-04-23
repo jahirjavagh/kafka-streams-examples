@@ -35,7 +35,7 @@ import org.scalatest.junit.AssertionsForJUnit
   * This example can be adapted to structured (nested) data formats such as Avro or JSON in case you need to concatenate
   * only certain field(s) in the input.
   *
-  * See [[ReduceIntegrationTest]] for the equivalent Java example.
+  * See [[ReduceTest]] for the equivalent Java example.
   */
 class ReduceScalaIntegrationTest extends AssertionsForJUnit {
 
